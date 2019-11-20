@@ -1,0 +1,281 @@
+﻿*{
+    margin:0;
+    padding:0;
+    -webkit-box-sizing:border-box;
+    box-sizing:border-box;
+}
+
+@font-face{
+    font-family:"Open Sans";
+    src: url("fonts/OpenSans-Regular.ttf");
+}
+
+@font-face{
+    font-family:"PT Sans";
+    src: url("fonts/PT_Sans-Web-Regular.ttf");
+}
+
+body {
+    font-family:"PT Sans";
+}
+
+.container{
+    width:1200px;
+    min-height:1px;
+    margin:0 auto;
+}
+
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+[class*="col-"] {
+  float: left;
+}
+
+.menuBar {
+    width: 100%;
+    min-height: 60px;
+    background: #FFF;
+    border-bottom:1px solid #EEE;
+    float: left;
+}
+
+.landing{
+    width:100%;
+    min-height:550px;
+    float:left;
+    background:#555 url("img/wallpaper.jpg") bottom center;
+    background-size:cover;
+    background-blend-mode:soft-light;
+    padding:100px 0;
+}
+
+.landing h2{
+    color:#FFF;
+    font-size:36px;
+    font-weight:normal;
+}
+
+.search-bar{
+    width:100%;
+    min-height:100px;
+    background:#FFF;
+    margin-top:-50px;
+    float:left;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+    padding:20px;
+}
+
+.about{
+    width:100%;
+    float:left;
+    min-height:300px;
+    padding:50px 0;
+    font-family:'Open Sans';
+}
+
+.about h2{
+    text-align:center;
+    font-weight:normal;
+    color: #555252;
+    font-size:20px;
+    padding-bottom:50px;
+}
+
+.about p{
+    padding:0px 50px;
+    text-align:center;
+}
+
+.img-responsive{
+    max-width:100%;
+    height:auto;
+}
+
+.logo{
+    color:#555252;
+    padding:17px 15px;
+}
+
+.menuBar ul{
+    list-style:none;
+    margin:0;
+    padding:0;
+    float:right;
+}
+
+.menuBar ul li{
+    float:left;
+    padding:17px 15px;
+}
+
+.menuBar ul li a{
+    color:#555252;
+    font-size:13px;
+    padding:15px 15px;
+    text-decoration:none;
+}
+
+.menuBar ul li a:hover{
+    background:rgba(0,0,0,0.12);
+    transition:0.3s ease;
+}
+
+.box-products{
+    min-height:250px;
+    text-align:center;
+    padding:15px;
+}
+
+.info{
+    color:#555252;
+    padding:10px 0;
+}
+
+.info h4{
+    padding-bottom:15px;
+}
+
+.box-products img{
+    width:50%;
+}
+
+.box-auth{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  min-height: 300px;
+  border:2px solid #EEE;
+  min-width:350px;
+  padding:20px;
+}
+
+.form_login{
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+    background:none;
+    border:1px solid #EEE;
+    margin-top:10px;
+}
+
+.form-custom{
+	box-sizing : border-box;
+	padding: 5px;
+	font-size: 13px;
+    background:none;
+    border:1px solid #EEE;
+}
+
+.form-green{
+	border:1px solid #66bb6a;
+	color: #66bb6a;
+	font-size: 12px;
+    background:none;
+	padding: 6px 20px;
+}
+
+.form-red{
+	border:1px solid #ef5350;
+    color:#ef5350;
+    background:none;
+	font-size: 12px;
+	padding: 6px 20px;
+}
+
+.form-grey{
+	border:1px solid #333;
+    color:#333;
+    background:none;
+	font-size: 12px;
+	padding: 6px 20px;
+}
+
+.label_login{
+    font-size:12px;
+}
+
+.login_button{
+	background: #42a5f5;
+	color: white;
+	font-size: 13px;
+	width: 100%;
+	border: none;
+	padding: 10px 20px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+
+}
+
+.back_button{
+	background: #ef5350;
+	color: white;
+	font-size: 13px;
+	width: 100%;
+	border: none;
+	padding: 10px 20px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+
+}
+
+.checkboxStyle{
+    width:100%;
+    min-height:20px;
+    margin-bottom:20px;
+    font-size:13px;
+}
+
+.data-grid{
+    width:100%;
+    border:1px solid #EEE;
+    font-size:13px;
+}
+
+.header-grid{
+    background:#EEE;
+}
+
+.data-grid td{
+    padding:5px;
+    text-align:center;
+}
+
+.data-grid th{
+    padding:5px;
+    text-align:center;
+}
+
+.heading{
+    font-weight:normal;
+    color:#555;
+    font-size:18px;
+    padding-bottom:10px;
+}
+
+.topBar{
+    width:100%;
+    min-height:20px;
+    float:left;
+    background:#FFF;
+}
+
+.label_greet{
+    color:#555252;
+    font-size:13px;
+    font-weight:500;
+}

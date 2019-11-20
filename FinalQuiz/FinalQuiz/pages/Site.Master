@@ -1,0 +1,61 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="FinalQuiz.View.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="../Assets/style.css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server" enctype="multipart/form-data">
+    <div>
+        <div class="menuBar">
+            <div class="container">
+            <div class="col-4">
+                <div class="logo"><strong>Real</strong>Cycle</div>
+            </div>
+            <div class="col-8">
+            <div runat="server" id="guestMenu">
+                <ul>
+                    <li><asp:HyperLink ID="HyperLink1" NavigateUrl="~/pages/Home.aspx" runat="server">Home</asp:HyperLink></li>
+                    <li><asp:HyperLink ID="HyperLink2" NavigateUrl="~/pages/Login.aspx" runat="server">Login</asp:HyperLink></li>
+                    <li><asp:HyperLink ID="HyperLink3" NavigateUrl="~/pages/Register.aspx" runat="server">Register</asp:HyperLink></li>
+                    <li><asp:HyperLink ID="HyperLink4" NavigateUrl="~/pages/Products.aspx" runat="server">View Products</asp:HyperLink></li>
+                    <li><asp:Label CssClass="label_greet" ID="guestGreetings" runat="server" Text=""></asp:Label></li>
+                </ul>
+            </div>
+
+            <div runat="server" id="memberMenu">
+                <ul>
+                    <li><asp:HyperLink ID="HyperLink5" NavigateUrl="~/pages/Home.aspx" runat="server">Home</asp:HyperLink></li>
+                    <li><asp:HyperLink ID="HyperLink12" NavigateUrl="~/pages/Profile.aspx" runat="server">Profile</asp:HyperLink></li>
+                    <li><asp:HyperLink ID="HyperLink8" NavigateUrl="~/pages/Products.aspx" runat="server">View Products</asp:HyperLink></li>
+                    <li><asp:HyperLink ID="HyperLink6" NavigateUrl="~/pages/Logout.aspx" runat="server">Logout</asp:HyperLink></li>
+                    <li><asp:Label CssClass="label_greet" ID="memberGreetings" runat="server" Text=""></asp:Label></li>
+                </ul>
+            </div>
+
+            <div runat="server" id="adminMenu">
+                <ul>
+                    <li><asp:HyperLink ID="HyperLink7" NavigateUrl="~/pages/Home.aspx" runat="server">Home</asp:HyperLink></li>
+                    <li><asp:HyperLink ID="HyperLink13" NavigateUrl="~/pages/Profile.aspx" runat="server">Profile</asp:HyperLink></li>
+                    <li><asp:HyperLink ID="HyperLink9" NavigateUrl="~/pages/Members.aspx" runat="server">Members</asp:HyperLink></li>
+                    <li><asp:HyperLink ID="HyperLink10" NavigateUrl="~/pages/Products.aspx" runat="server">Products</asp:HyperLink></li>
+                    <li><asp:HyperLink ID="HyperLink11" NavigateUrl="~/pages/Logout.aspx" runat="server">Logout</asp:HyperLink></li>
+                    <li><asp:Label CssClass="label_greet" ID="adminGreetings" runat="server" Text=""></asp:Label></li>
+                </ul>
+            </div>
+            </div>
+            </div>
+        </div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

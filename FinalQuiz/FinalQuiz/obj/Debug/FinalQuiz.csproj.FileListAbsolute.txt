@@ -1,0 +1,96 @@
+C:\Users\Koming Yosua\Desktop\FinalQuiz\FinalQuiz\bin\roslyn\csc.exe
+C:\Users\Koming Yosua\Desktop\FinalQuiz\FinalQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Koming Yosua\Desktop\FinalQuiz\FinalQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Koming Yosua\Desktop\FinalQuiz\FinalQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Koming Yosua\Desktop\FinalQuiz\FinalQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Koming Yosua\Desktop\FinalQuiz\FinalQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Koming Yosua\Desktop\FinalQuiz\FinalQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Koming Yosua\Desktop\FinalQuiz\FinalQuiz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Koming Yosua\Desktop\FinalQuiz\FinalQuiz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Koming Yosua\Desktop\FinalQuiz\FinalQuiz\bin\roslyn\vbc.exe
+C:\Users\Koming Yosua\Desktop\FinalQuiz\FinalQuiz\bin\roslyn\VBCSCompiler.exe
+C:\Users\Koming Yosua\Desktop\FinalQuiz\FinalQuiz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Koming Yosua\Desktop\FinalQuiz\FinalQuiz\bin\FinalQuiz.dll.config
+C:\Users\Koming Yosua\Desktop\FinalQuiz\FinalQuiz\bin\FinalQuiz.dll
+C:\Users\Koming Yosua\Desktop\FinalQuiz\FinalQuiz\bin\FinalQuiz.pdb
+C:\Users\Koming Yosua\Desktop\FinalQuiz\FinalQuiz\bin\EntityFramework.dll
+C:\Users\Koming Yosua\Desktop\FinalQuiz\FinalQuiz\bin\EntityFramework.SqlServer.dll
+C:\Users\Koming Yosua\Desktop\FinalQuiz\FinalQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Koming Yosua\Desktop\FinalQuiz\FinalQuiz\bin\EntityFramework.xml
+C:\Users\Koming Yosua\Desktop\FinalQuiz\FinalQuiz\bin\EntityFramework.SqlServer.xml
+C:\Users\Koming Yosua\Desktop\FinalQuiz\FinalQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Koming Yosua\Desktop\FinalQuiz\FinalQuiz\obj\Debug\FinalQuiz.csprojResolveAssemblyReference.cache
+C:\Users\Koming Yosua\Desktop\FinalQuiz\FinalQuiz\obj\Debug\FinalQuiz.dll
+C:\Users\Koming Yosua\Desktop\FinalQuiz\FinalQuiz\obj\Debug\FinalQuiz.pdb
+D:\Tugas Kuliah\Semester 4\Pattern Software Design\FinalQuiz\FinalQuiz\obj\Debug\FinalQuiz.csprojResolveAssemblyReference.cache
+D:\Tugas Kuliah\Semester 4\Pattern Software Design\FinalQuiz\FinalQuiz\obj\Debug\FinalQuiz.dll
+D:\Tugas Kuliah\Semester 4\Pattern Software Design\FinalQuiz\FinalQuiz\obj\Debug\FinalQuiz.pdb
+D:\Tugas Kuliah\Semester 4\Pattern Software Design\FinalQuiz\FinalQuiz\bin\roslyn\csc.exe
+D:\Tugas Kuliah\Semester 4\Pattern Software Design\FinalQuiz\FinalQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Tugas Kuliah\Semester 4\Pattern Software Design\FinalQuiz\FinalQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tugas Kuliah\Semester 4\Pattern Software Design\FinalQuiz\FinalQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Tugas Kuliah\Semester 4\Pattern Software Design\FinalQuiz\FinalQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Tugas Kuliah\Semester 4\Pattern Software Design\FinalQuiz\FinalQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Tugas Kuliah\Semester 4\Pattern Software Design\FinalQuiz\FinalQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Tugas Kuliah\Semester 4\Pattern Software Design\FinalQuiz\FinalQuiz\bin\roslyn\System.Collections.Immutable.dll
+D:\Tugas Kuliah\Semester 4\Pattern Software Design\FinalQuiz\FinalQuiz\bin\roslyn\System.Reflection.Metadata.dll
+D:\Tugas Kuliah\Semester 4\Pattern Software Design\FinalQuiz\FinalQuiz\bin\roslyn\vbc.exe
+D:\Tugas Kuliah\Semester 4\Pattern Software Design\FinalQuiz\FinalQuiz\bin\roslyn\VBCSCompiler.exe
+D:\Tugas Kuliah\Semester 4\Pattern Software Design\FinalQuiz\FinalQuiz\bin\roslyn\VBCSCompiler.exe.config
+D:\Tugas Kuliah\Semester 4\Pattern Software Design\FinalQuiz\FinalQuiz\bin\FinalQuiz.dll.config
+D:\Tugas Kuliah\Semester 4\Pattern Software Design\FinalQuiz\FinalQuiz\bin\FinalQuiz.dll
+D:\Tugas Kuliah\Semester 4\Pattern Software Design\FinalQuiz\FinalQuiz\bin\FinalQuiz.pdb
+D:\Tugas Kuliah\Semester 4\Pattern Software Design\FinalQuiz\FinalQuiz\bin\EntityFramework.dll
+D:\Tugas Kuliah\Semester 4\Pattern Software Design\FinalQuiz\FinalQuiz\bin\EntityFramework.SqlServer.dll
+D:\Tugas Kuliah\Semester 4\Pattern Software Design\FinalQuiz\FinalQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Tugas Kuliah\Semester 4\Pattern Software Design\FinalQuiz\FinalQuiz\bin\EntityFramework.xml
+D:\Tugas Kuliah\Semester 4\Pattern Software Design\FinalQuiz\FinalQuiz\bin\EntityFramework.SqlServer.xml
+D:\Tugas Kuliah\Semester 4\Pattern Software Design\FinalQuiz\FinalQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\huntk\Music\FinalQuiz\FinalQuiz\obj\Debug\FinalQuiz.csprojResolveAssemblyReference.cache
+C:\Users\huntk\Music\FinalQuiz\FinalQuiz\obj\Debug\FinalQuiz.dll
+C:\Users\huntk\Music\FinalQuiz\FinalQuiz\obj\Debug\FinalQuiz.pdb
+C:\Users\huntk\Music\FinalQuiz\FinalQuiz\bin\roslyn\csc.exe
+C:\Users\huntk\Music\FinalQuiz\FinalQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\huntk\Music\FinalQuiz\FinalQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\huntk\Music\FinalQuiz\FinalQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\huntk\Music\FinalQuiz\FinalQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\huntk\Music\FinalQuiz\FinalQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\huntk\Music\FinalQuiz\FinalQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\huntk\Music\FinalQuiz\FinalQuiz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\huntk\Music\FinalQuiz\FinalQuiz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\huntk\Music\FinalQuiz\FinalQuiz\bin\roslyn\vbc.exe
+C:\Users\huntk\Music\FinalQuiz\FinalQuiz\bin\roslyn\VBCSCompiler.exe
+C:\Users\huntk\Music\FinalQuiz\FinalQuiz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\huntk\Music\FinalQuiz\FinalQuiz\bin\FinalQuiz.dll.config
+C:\Users\huntk\Music\FinalQuiz\FinalQuiz\bin\FinalQuiz.dll
+C:\Users\huntk\Music\FinalQuiz\FinalQuiz\bin\FinalQuiz.pdb
+C:\Users\huntk\Music\FinalQuiz\FinalQuiz\bin\EntityFramework.dll
+C:\Users\huntk\Music\FinalQuiz\FinalQuiz\bin\EntityFramework.SqlServer.dll
+C:\Users\huntk\Music\FinalQuiz\FinalQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\huntk\Music\FinalQuiz\FinalQuiz\bin\EntityFramework.xml
+C:\Users\huntk\Music\FinalQuiz\FinalQuiz\bin\EntityFramework.SqlServer.xml
+C:\Users\huntk\Music\FinalQuiz\FinalQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FinalQuiz\FinalQuiz\bin\roslyn\csc.exe
+D:\FinalQuiz\FinalQuiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FinalQuiz\FinalQuiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FinalQuiz\FinalQuiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FinalQuiz\FinalQuiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FinalQuiz\FinalQuiz\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FinalQuiz\FinalQuiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FinalQuiz\FinalQuiz\bin\roslyn\System.Collections.Immutable.dll
+D:\FinalQuiz\FinalQuiz\bin\roslyn\System.Reflection.Metadata.dll
+D:\FinalQuiz\FinalQuiz\bin\roslyn\vbc.exe
+D:\FinalQuiz\FinalQuiz\bin\roslyn\VBCSCompiler.exe
+D:\FinalQuiz\FinalQuiz\bin\roslyn\VBCSCompiler.exe.config
+D:\FinalQuiz\FinalQuiz\bin\FinalQuiz.dll.config
+D:\FinalQuiz\FinalQuiz\bin\FinalQuiz.dll
+D:\FinalQuiz\FinalQuiz\bin\FinalQuiz.pdb
+D:\FinalQuiz\FinalQuiz\bin\EntityFramework.dll
+D:\FinalQuiz\FinalQuiz\bin\EntityFramework.SqlServer.dll
+D:\FinalQuiz\FinalQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FinalQuiz\FinalQuiz\bin\EntityFramework.xml
+D:\FinalQuiz\FinalQuiz\bin\EntityFramework.SqlServer.xml
+D:\FinalQuiz\FinalQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FinalQuiz\FinalQuiz\obj\Debug\FinalQuiz.csprojResolveAssemblyReference.cache
+D:\FinalQuiz\FinalQuiz\obj\Debug\FinalQuiz.dll
+D:\FinalQuiz\FinalQuiz\obj\Debug\FinalQuiz.pdb
